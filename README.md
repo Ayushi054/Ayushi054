@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayushi054
 - 👀 I’m interested in web development,game development,application development.
-- 🌱 I’m currently learning python programming language 
+- 🌱 I’m currently learning Android Development 
 - 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me ...
 
